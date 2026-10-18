@@ -9,5 +9,5 @@
 ## 部署步骤
 1. 克隆仓库
 ```bash
-git clone https://github.com/chen18362794620@qq.com/linux-server-monitor.git
+git clone https://github.com/wang-wang-chen/linux-server-monitor
 cd linux-server-monitor
